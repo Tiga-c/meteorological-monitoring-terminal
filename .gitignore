@@ -1,0 +1,31 @@
+# Keil / MDK generated files
+OBJ/
+USER/Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.lnp
+*.dep
+*.map
+*.lst
+*.htm
+*.build_log.htm
+Templet_sct.Bak
+
+# Keil per-user IDE and debugger settings
+*.uvguix.*
+*.uvoptx
+JLinkLog.txt
+JLinkSettings.ini
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local secrets
+USER/secrets.h
